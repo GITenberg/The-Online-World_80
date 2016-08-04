@@ -1,0 +1,22 @@
+_repo: The-Online-World_80
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Presno, Odd
+    gutenberg_agent_id: '58'
+    url: http://www.gutenberg.org/2009/agents/58
+description: Shareware
+gutenberg_issued: '1993-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '80'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcc 'TK'
+- !lcsh 'Internet'
+- GITenberg
+title: The Online World
+url: http://www.gutenberg.org/ebooks/80
